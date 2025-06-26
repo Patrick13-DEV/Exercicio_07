@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    background-color: #ffffff;
+    color: #0f241d;
+}
+.conteiner {}
+hr
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 375rem;
+    height: 72rem;
+    font-weight: bold;
+}
+  h2.logo{
+    
+
+}
+nav h2 span{
+    color: #69b99d;
+}
+ #header span.toggleicon-menu
+{
+    color: rgb(255, 40, 165);
+}
